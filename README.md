@@ -37,7 +37,8 @@
 
   ## Screenshot
 
-    ![image](https://github.com/talysh/budgettracker/tree/main/public/assets/img/samplescreen.png)
+  ![image](https://github.com/talysh/budgettracker/tree/main/public/assets/img/samplescreen.png)
 
   ## Deployed application
   
+  [https://infinite-thicket-10019.herokuapp.com/](https://infinite-thicket-10019.herokuapp.com/)
