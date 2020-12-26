@@ -37,7 +37,7 @@
 
   ## Screenshot
 
-  ![image](https://github.com/talysh/budgettracker/tree/main/public/assets/img/samplescreen.png)
+  ![image](https://talysh.github.io/budgettracker/tree/main/public/assets/img/samplescreen.png)
 
   ## Deployed application
   
